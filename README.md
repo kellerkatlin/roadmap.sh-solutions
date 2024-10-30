@@ -2,6 +2,13 @@
 
 Welcome to the Roadmap.sh Solutions repository. This repository contains various projects that follow the Roadmap.sh guidelines. The projects are categorized into different sections based on their domain, such as Frontend, Backend, Mobile, and more. Each project has its own directory and a README file that provides a detailed description of the project.
 
+
+##
+ FCheck out our featured project: [Single Page CV](https://roadmap.sh/projects/single-page-cv). This project guides you through creating a single-page CV using modern web technologies. It's a great way to practice and showcase your frontend development skills.
+ea
+
+tured Project
+
 ## Sections
 
 ### Frontend
